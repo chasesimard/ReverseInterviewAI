@@ -1,14 +1,24 @@
 
 ✅ Features:
-	•	Clean layout using markdown.
-	•	Clear Getting Started instructions.
-	•	Handles .env setup & local dev.
-	•	Deployment tips optional.
-	•	Includes license & credit section.
+	• Clean layout using markdown.
+	• Clear Getting Started instructions.
+	• Handles .env setup & local dev.
+	• Deployment tips optional.
+	• Includes license & credit section.
 
 ⸻
+# 🎤 Reverse Interview AI Demonstration
 
-![Screenshot 2025-05-20 at 1 19 46 PM](https://github.com/user-attachments/assets/0e60a963-7890-4775-ab32-1be637a7893b)
+Get Access to Research about the Company!
+![Screenshot 2025-05-20 at 1 15 22 PM](https://github.com/user-attachments/assets/9570ac0b-544f-4b05-ae3b-ad10c1244781)
+
+
+Get Interview Questions and Responses
+![Screenshot 2025-05-20 at 1 19 21 PM](https://github.com/user-attachments/assets/f46a3f69-4f53-4d54-8a72-18c4eb0c2997)
+
+
+Get an Interview Score to see how you did!
+![Screenshot 2025-05-20 at 1 19 46 PM](https://github.com/user-attachments/assets/fd7e9f04-0321-471d-b93f-d9cc4aefe332)
 
 
 # 🎤 Reverse Interview AI
@@ -110,10 +120,10 @@ Endpoint	Method	Description
 ⸻
 
 📌 TODO
-	•	User login with Supabase
-	•	Save previous interview history
-	•	Add voice-to-text AI
-	•	Deploy via Vercel/Render
+	• User login with Supabase
+	• Save previous interview history
+	• Add voice-to-text AI
+	• Deploy via Vercel/Render
 
 ⸻
 
