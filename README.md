@@ -43,7 +43,6 @@ Get an Interview Score to see how you did!
 - **Backend:** FastAPI (Python 3.9+)
 - **Styling:** Tailwind CSS (Optional)
 - **AI:** OpenAI (via `.env` key)
-- **CopilotKit:** (optional) for clean UI scaffolding
 
 ---
 
@@ -86,8 +85,6 @@ npm run dev
 Create a .env file in the root folder (not committed):
 
 OPENAI_API_KEY=sk-xxxx...
-SUPABASE_URL=https://xyz.supabase.co
-SUPABASE_API_KEY=your_supabase_key
 
 🧪 Add .env to .gitignore to avoid leaking secrets.
 
